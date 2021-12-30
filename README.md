@@ -32,6 +32,7 @@ Hulu Website Clone with nextjs , typescript , tailwind css and api from
             ├── Header                 # Header component
             ├── Navbar                 # Navbar component
             ├── Results                # Results component
+            ├── Footer                 # Footer component
             ├── utils                  # utils component
     ├── styles
     ├── pages                          # Application views
