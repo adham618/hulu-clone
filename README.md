@@ -1,6 +1,6 @@
 # Hulu Website Clone
 
-![screenshot](https://user-images.githubusercontent.com/88515844/147467595-fa25ada2-2d76-438c-bedf-b86df0ec779a.png)
+![screenshot ](https://user-images.githubusercontent.com/88515844/147764187-0ec35939-c8e5-48ee-9700-5aec522a037b.png)
 
 ## **[Live Demo](https://hulu-clone-with-typescript.vercel.app/)**
 
