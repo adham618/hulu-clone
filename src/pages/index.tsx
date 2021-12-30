@@ -1,5 +1,6 @@
 import type { GetServerSideProps, NextPage } from 'next'
 import Head from 'next/head'
+import Footer from '../common/components/Footer/Footer'
 import Header from '../common/components/Header/Header'
 import Navbar from '../common/components/Navbar/Navbar'
 import Results from '../common/components/Results/Results'
@@ -22,6 +23,7 @@ const Home: NextPage<HomeProps> = ({ results }: HomeProps) => {
       <Header />
       <Navbar />
       <Results results={results} />
+      <Footer />
     </>
   )
 }
